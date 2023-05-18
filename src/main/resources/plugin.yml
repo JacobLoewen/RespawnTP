@@ -1,0 +1,6 @@
+name: Respawn
+version: ${project.version}
+main: me.starminer.Respawn
+api-version: 1.19
+authors: [ StarMiner ]
+description: Allows players to respawn to other players after 30-60 seconds (if all players die, they respawn at spawn).
